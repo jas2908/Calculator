@@ -1,0 +1,1 @@
+This is a hobby project. The calculator can perform multiple calculations in one go using BODMAS principles. It is a simple calculator that can solve brackets, add, subtract, multiply and divide. The app is built using java fxml.
